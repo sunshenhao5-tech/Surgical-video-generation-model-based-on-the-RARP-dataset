@@ -1,6 +1,6 @@
 # Surgical-video-generation-model-based-on-the-RARP-dataset
 
-![Demo Video](https://github.com/samho2gyb/Surgical-video-generation-model-based-on-the-RARP-dataset/raw/main/demo/demo.mp4)
+![Demo Video](https://github.com/samho2gyb/Surgical-video-generation-model-based-on-the-RARP-dataset/raw/main/demo/demo.gif)
 
 Surgical-video-generation-model-based-on-the-RARP-dataset 是一个用于可控手术视频生成的解耦 RGBD-Flow 扩散模型。通过深度、光流和分割信息，实现精确的运动控制和视频合成。
 
